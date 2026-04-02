@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web-Based Quiz Competition System
 
 A responsive, browser-based quiz application developed as a Minor Project. This system automates the traditional quiz process by providing instant evaluation, scoring, and feedback without the need for manual checking.
@@ -28,3 +29,7 @@ Since this is a client-side application, you don't need to install any heavy sof
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# Web-Based-Quiz-System
+About "A responsive Web-Based Quiz System automating user evaluation using HTML, CSS, and JavaScript. Features include DOM manipulation for real-time scoring, event handling for interactive navigation, and dynamic question rendering without backend dependencies."
+>>>>>>> 42d3cbfe9fbabd51fbee4a8cbed686e69d4552f1
